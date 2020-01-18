@@ -10,6 +10,7 @@ class ChattyStudent < Student
     if counter < 10 
       super
       counter += 1
+    end
   end 
 
 
